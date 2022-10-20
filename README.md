@@ -1,5 +1,7 @@
 # metafont
-全球首套中文元字库，4K高清，3D，国标二级，
+一元复始，万象更新。
+MetaFont.vip 全球首套中文元字库，4K高清，3D，国标二级，
+中文元宇宙的第一块硬核基石。
 更多资料请参看QQ视频号和网站：http://metafont.vip http://ziwang.com
 
 ![mf_20221010063829](https://user-images.githubusercontent.com/11691791/196846801-5a8c0290-b0ac-4222-b797-76bb6fc01a7c.png)
