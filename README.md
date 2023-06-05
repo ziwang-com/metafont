@@ -18,3 +18,4 @@ MetaFont.vip 全球首套中文元字库，4K高清，3D，国标二级.
 ![mf-wmov-qcod400](https://user-images.githubusercontent.com/11691791/196847007-9acefcad-9990-489d-a24b-cbefde8f0774.png)
 
 
+![zwagi- (4)](https://github.com/ziwang-com/metafont/assets/11691791/b4e6cdf1-9dea-414b-867b-b012cee125fc)
